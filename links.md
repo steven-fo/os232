@@ -11,5 +11,11 @@ The link is interesting because it has been used since a long time ago.
 * [Geeks for Geeks](https://www.geeksforgeeks.org/) ---
 Your go-to forum page if you encounter any problem.
 The link is interesting because I can search linux commands, github how-to, and so on.
+* [YouTube](https://youtu.be/U_P23SqJaDc) ---
+Intro to Cyber Security Course.
+Very detailed explanation and beginner friendly.
+* [Slides](https://www.os-book.com/OS10/slide-dir/) ---
+Text book, but in slides.
+Recommended if you prefer to read only important points and not the whole book.
 <br>
 <hr>
