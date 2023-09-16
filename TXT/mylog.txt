@@ -14,3 +14,9 @@ ZCZC W01 300 L11 Assignment #01
 ZCZC W01 60 L05 Quiz related including studying
 ZCZC W01 15 L13 Assignment #03
 ZCZC W01 15 L14 Assignment #04
+ZCZC W02 200 L02 CLASSROOM/ZOOM Meetings related
+ZCZC W02 25 L11 Assignment #01
+ZCZC W02 300 Quiz related including studying, watched the cyber security course beginner
+ZCZC W02 40 L12 Assignment #02
+ZCZC W02 20 L15 Assignment #05
+ZCZC W02 20 L01 SCELE/Discord related
