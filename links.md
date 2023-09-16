@@ -17,5 +17,7 @@ Very detailed explanation and beginner friendly.
 * [Slides](https://www.os-book.com/OS10/slide-dir/) ---
 Text book, but in slides.
 Recommended if you prefer to read only important points and not the whole book.
+* [Make Tech Easier](https://www.maketecheasier.com/copy-paste-files-linux-command-line/) ---
+Simple tutorial to copy and paste your file using Linux commands.
 <br>
 <hr>
