@@ -20,3 +20,5 @@ ZCZC W02 300 Quiz related including studying, watched the cyber security course 
 ZCZC W02 40 L12 Assignment #02
 ZCZC W02 20 L15 Assignment #05
 ZCZC W02 20 L01 SCELE/Discord related
+ZCZC W02 30 L13 Assignment #03
+ZCZC W02 30 L14 Assignment #04
