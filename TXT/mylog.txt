@@ -23,3 +23,9 @@ ZCZC W02 20 L01 SCELE/Discord related
 ZCZC W02 30 L13 Assignment #03
 ZCZC W02 30 L14 Assignment #04
 ZCZC W02 90 L16 Assignment #06
+ZCZC W03 200 L02 CLASSROOM/ZOOM Meetings related
+ZCZC W03 50 L12 Assignment #02
+ZCZC W03 30 L13 Assignment #03
+ZCZC W03 60 L14 Assignment #04
+ZCZC W03 180 L11 Assignment #01
+ZCZC W03 180 L05 Quiz related including studying
