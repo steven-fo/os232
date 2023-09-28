@@ -29,3 +29,8 @@ ZCZC W03 30 L13 Assignment #03
 ZCZC W03 60 L14 Assignment #04
 ZCZC W03 180 L11 Assignment #01
 ZCZC W03 180 L05 Quiz related including studying
+ZCZC W04 100 L02 CLASSROOM/ZOOM Meetings related
+ZCZC W04 10 L11 Assignment #01
+ZCZC W04 30 L12 Assignment #02
+ZCZC W04 10 L13 Assignment #03
+ZCZC W04 30 L01 SCELE/Discord related
