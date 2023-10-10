@@ -34,3 +34,10 @@ ZCZC W04 10 L11 Assignment #01
 ZCZC W04 30 L12 Assignment #02
 ZCZC W04 10 L13 Assignment #03
 ZCZC W04 30 L01 SCELE/Discord related
+ZCZC W05 200 L02 CLASSROOM/ZOOM Meetings related
+ZCZC W05 30 L11 Assignment #01
+ZCZC W05 30 L12 Assignment #02
+ZCZC W05 60 L13 Assignment #03
+ZCZC W05 60 L14 Assignment #04
+ZCZC W05 30 L15 Assignment #05
+ZCZC W05 120 L01 SCELE/Discord related

@@ -25,6 +25,8 @@ Youtube playlist to learn file system. Easy to understand.
 Easy file system concept. Created by Udacity.
 * [LeetCode](https://leetcode.com/problemset/all/) ---
 A platform for learning programming languages by solving problems. They also provide solutions for each problems.
+* [PDF EXAM OS](https://rms46.vlsm.org/1/94.pdf) ---
+Past Exam papers. Recommended to learn from for the midterm test.
 
 <br>
 <hr>
