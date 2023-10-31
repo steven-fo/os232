@@ -27,6 +27,7 @@ Easy file system concept. Created by Udacity.
 A platform for learning programming languages by solving problems. They also provide solutions for each problems.
 * [PDF EXAM OS](https://rms46.vlsm.org/1/94.pdf) ---
 Past Exam papers. Recommended to learn from for the midterm test.
-
+* [A guide to Fork](https://www.youtube.com/watch?v=8rry2ncZmfg) ---
+Easy guide to forking in github. Presented by lecturer in UNPAS.
 <br>
 <hr>
