@@ -29,5 +29,7 @@ A platform for learning programming languages by solving problems. They also pro
 Past Exam papers. Recommended to learn from for the midterm test.
 * [A guide to Fork](https://www.youtube.com/watch?v=8rry2ncZmfg) ---
 Easy guide to forking in github. Presented by lecturer in UNPAS.
+* [C Lang Tutorial by FreeCodeCamp](https://www.youtube.com/watch?v=KJgsSFOSQv0) ---
+Free C language tutorial from famous organizations. Materials are explained clearly.
 <br>
 <hr>
