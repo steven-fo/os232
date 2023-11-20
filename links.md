@@ -31,5 +31,7 @@ Past Exam papers. Recommended to learn from for the midterm test.
 Easy guide to forking in github. Presented by lecturer in UNPAS.
 * [C Lang Tutorial by FreeCodeCamp](https://www.youtube.com/watch?v=KJgsSFOSQv0) ---
 Free C language tutorial from famous organizations. Materials are explained clearly.
+* [A Helpful Channel for W08](https://www.youtube.com/@Kernotex) ---
+Best channel to learn linux from scratch. Easy to understand videos.
 <br>
 <hr>
